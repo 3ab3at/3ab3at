@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @3ab3at named Abdul Ati
+- 👋 Hi, I’m @3ab3at named Abdelaaty
 - 👀 I’m interested in software engineering and app HDLdevelopment.
 - 🌱 I’m currently learning QML and Flutter/ Dart. 
 - 💞️ I’m looking to collaborate on as many projects and applications as I can during my undergraduate college years.
